@@ -4,7 +4,9 @@ email: info@blackburnfoundation.org
 description: "We are committed to promoting higher education and community development."
 baseurl: ""
 url: "http://blackburnfoundation.org"
-username: blackburnf
+social:
+  twitter: blackburnf
+  facebook: blackburnfoundation
 
 # Build settings
 markdown: kramdown
