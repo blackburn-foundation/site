@@ -1,0 +1,11 @@
+# Site settings
+title: The Blackburn Foundation
+email: info@blackburnfoundation.org
+description: "We are committed to promoting higher education and community development."
+baseurl: ""
+url: "http://blackburnfoundation.org"
+username: blackburnf
+
+# Build settings
+markdown: kramdown
+permalink: pretty
