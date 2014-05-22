@@ -6,4 +6,10 @@ permalink: /about/
 
 TODO: Blurb about the foundation and why we exist.
 
-TODO: Headshots and info about board members
+<h2>Board of Directors</h2>
+<ul>
+<li><strong>President:</strong> Clinton Blackburn</li>
+<li><strong>Vice-President: </strong>Dr. Lew Blackburn, Sr.</li>
+<li><strong>Treasurer: </strong>Lew Blackburn, Jr.</li>
+<li><strong>Secretary: </strong>Tes Blackburn</li>
+</ul>
