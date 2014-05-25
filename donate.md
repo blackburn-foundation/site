@@ -2,6 +2,7 @@
 layout: page
 title: Donate
 permalink: /donate/
+show_in_nav: true
 ---
 
 When we at the Blackburn Foundation discuss donations, we do not consider donations to be <em>given</em>. The officers of the Blackburn Foundation consider every penny an <em>investment</em> in the futures of the communities and scholars affected by our programs and scholarships.

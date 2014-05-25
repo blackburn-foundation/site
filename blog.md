@@ -2,6 +2,7 @@
 layout: page
 title: Blog
 permalink: /blog/
+show_in_nav: true
 ---
 <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
