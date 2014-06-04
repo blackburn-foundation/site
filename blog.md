@@ -9,8 +9,9 @@ show_in_nav: true
 <ul class="posts">
   {% for post in site.posts %}
     <li>
-      <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}</span>
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
