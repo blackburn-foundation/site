@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 show_in_nav: true
 ---
-
-TODO: Blurb about the foundation and why we exist.
+<strong>Founded:</strong> October 1, 2008 in Dallas, Texas<br>
+<strong>EIN:</strong> 80-0271043<br>
 
 <h2>Board of Directors</h2>
 <ul>
