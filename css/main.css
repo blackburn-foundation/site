@@ -407,3 +407,13 @@ a:hover   { color: #000; text-decoration: underline; }
     margin: 0 0 15px; }
 
 }
+
+/* Homepage Slidshow */
+/* ----------------------------------------------------------*/
+.carousel-control > span {
+  position: absolute;
+  top: 50%;
+}
+
+.margin-bottom-large        { margin-bottom: 22px !important; }
+.margin-top-large     { margin-top: 22px !important; }
