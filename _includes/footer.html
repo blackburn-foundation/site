@@ -1,41 +1,51 @@
-<footer class="site-footer margin-top-large">
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
+<footer class="site-footer h-card">
+    <data class="u-url" href="{{ "/" | relative_url }}"></data>
+    <div class="wrapper">
+        <div class="footer-col-wrapper">
+            <div class="footer-col footer-col-1">
+                <ul class="contact-list">
+                    <li class="p-name">
+                        {% if site.author %}
+                        {{ site.author | escape }}
+                        {% else %}
+                        {{ site.title | escape }}
+                        {% endif %}
+                    </li>
+                    {% if site.email %}
+                    <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+                    {% endif %}
+                </ul>
+            </div>
 
-  <div class="wrap">
+            <div class="footer-col footer-col-2">
+                <ul class="social-media-list">
+                    <li>
+                        <a href="https://twitter.com/{{ site.social.twitter }}">
+                            <i class="fa fa-twitter-square"></i>
+                            <span class="username">{{ site.social.twitter }}</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.facebook.com/{{ site.social.facebook }}">
+                            <i class="fa fa-facebook-square"></i>
+                            <span class="username">{{ site.social.facebook }}</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
+                        <i class="fa fa-rss-square"></i>
+                        RSS
+                        </a>
+                    </li>
+                </ul>
+            </div>
 
-    <div class="footer-col-1 column">
-      <ul>
-        <li>{{ site.title }}</li>
-        <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-      </ul>
+            <div class="footer-col footer-col-3">
+                <p>{{ site.description | escape }}</p>
+            </div>
+        </div>
+
     </div>
-
-    <div class="footer-col-2 column">
-      <ul>
-        <li>
-          <a href="https://twitter.com/{{ site.social.twitter }}">
-            <i class="fa fa-twitter-square"></i>
-            <span class="username">{{ site.social.twitter }}</span>
-          </a>
-        </li>
-        <li>
-          <a href="https://www.facebook.com/{{ site.social.facebook }}">
-            <i class="fa fa-facebook-square"></i>
-            <span class="username">{{ site.social.facebook }}</span>
-          </a>
-        </li>
-        <li>
-          <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
-            <i class="fa fa-rss-square"></i>
-            RSS
-          </a>
-        </li>
-      </ul>
-    </div>
-
-    <div class="footer-col-3 column">
-      <p class="text">{{ site.description }}</p>
-    </div>
-
-  </div>
 
 </footer>

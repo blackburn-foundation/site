@@ -2,7 +2,6 @@
 layout: page
 title: About
 permalink: /about/
-show_in_nav: true
 ---
 <strong>Founded:</strong> October 1, 2008 in Dallas, Texas<br>
 <strong>EIN:</strong> 80-0271043<br>

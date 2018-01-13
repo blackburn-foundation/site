@@ -8,11 +8,29 @@ social:
   twitter: blackburnf
   facebook: blackburnfoundation
 
+twitter_username: blackburnf
+
+header_pages:
+ - about.md
+ - blog.md
+ - donate.md
+ - volunteer.md
+
+google_analytics: "UA-2869148-4"
+
 # Build settings
+theme: minima
 markdown: kramdown
 permalink: pretty
 
 plugins:
   - jekyll-sitemap
+  - jekyll-feed
 
 include: [".well-known"]
+
+exclude:
+  - old
+
+sass:
+  style: compressed
