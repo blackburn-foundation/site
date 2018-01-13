@@ -23,24 +23,8 @@ The Blackburn Foundation<br>
 Dallas, Texas 75241<br>
 </address>
 
-Donations can also be made electronically via Dwolla or Paypal.
+Donations can also be made electronically using the form below.
 
-<script
-  src="https://www.dwolla.com/scripts/button.min.js" class="dwolla_button" type="text/javascript"
-  data-key="30Fd7DeZaKg3glod/RPMsTY9Ppfj5QV6kHmVVchX6xz/g0tqOc"
-  data-redirect="http://blackburnfoundation.org/thanks/"
-  data-label="Donate with Dwolla"
-  data-name="Donation"
-  data-description="undefined"
-  data-amount="50"
-  data-guest-checkout="true"
-  data-type="freetype"
->
-</script>
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="MDK5M5LCL6EGG">
-<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
+<center>
+<script src="https://donorbox.org/widget.js" type="text/javascript"></script><iframe src="https://donorbox.org/embed/blackburn-donation" height="685px" width="100%" style="max-width:500px; min-width:310px; max-height:none!important" seamless="seamless" name="donorbox" frameborder="0" scrolling="no"></iframe>
+</center>
