@@ -17,7 +17,7 @@ ensure that every purchase you make supports our work in the community!
 Donations can be made via credit card, ACH transfer, or PayPal using the form below.
 
 <center>
-<script src="https://donorbox.org/widget.js" type="text/javascript"></script><iframe src="https://donorbox.org/embed/blackburn-donation" height="685px" width="100%" style="max-width:500px; min-width:310px; max-height:none!important" seamless="seamless" name="donorbox" frameborder="0" scrolling="no"></iframe>
+<script src="https://donorbox.org/widget.js" type="text/javascript"></script><iframe src="https://donorbox.org/embed/blackburn-donation" height="685px" width="100%" style="max-width:500px; min-width:310px; max-height:none!important" seamless="seamless" name="donorbox" frameborder="0" scrolling="no" allowpaymentrequest></iframe>
 </center>
 
 If you would like to pay via check, you can mail your donation to:
