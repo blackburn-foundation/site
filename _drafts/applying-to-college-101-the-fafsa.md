@@ -9,7 +9,7 @@ You know you need to apply to college, but did you know you also need to apply f
 
 **What’s the FAFSA and where do I find it?**
 
-FASFA stands for the Free Application for Federal Student Aid, and is the common form almost all colleges use to determine financial aid packages. You can complete and submit the FAFSA online at [studentaid.ed.gov/sa/fafsa](https://studentaid.ed.gov/sa/fafsa). The FAFSA goes live every October 1st and is for the upcoming academic year. For example, the FAFSA application opening in October 2018 is the form needed for the 2019-2020 school year. _Keep in mind, you’ll need to complete the FAFSA for each year you will be enrolled._
+FAFSA stands for the Free Application for Federal Student Aid, and is the common form almost all colleges use to determine financial aid packages. You can complete and submit the FAFSA online at [studentaid.ed.gov/sa/fafsa](https://studentaid.ed.gov/sa/fafsa). The FAFSA goes live every October 1st and is for the upcoming academic year. For example, the FAFSA application opening in October 2018 is the form needed for the 2019-2020 school year. _Keep in mind, you’ll need to complete the FAFSA for each year you will be enrolled._
 
 **Is there a deadline?**
 
