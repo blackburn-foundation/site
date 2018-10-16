@@ -10,3 +10,5 @@ fields:
 - type: text
   label: Author
   name: author
+pages:
+- _posts/test.md
