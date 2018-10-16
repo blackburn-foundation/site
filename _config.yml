@@ -24,8 +24,9 @@ markdown: kramdown
 permalink: pretty
 
 plugins:
-  - jekyll-sitemap
   - jekyll-feed
+  - jekyll-menus
+  - jekyll-sitemap
 
 include: [".well-known"]
 
