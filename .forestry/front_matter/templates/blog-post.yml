@@ -4,6 +4,9 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
-  default: Title
+  default: ''
   label: Title
   name: title
+- type: text
+  label: Author
+  name: author
