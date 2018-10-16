@@ -21,3 +21,5 @@ fields:
   hidden: true
   config:
     required: true
+pages:
+- _posts/test.md
