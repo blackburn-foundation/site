@@ -47,32 +47,16 @@ It’s a good idea to have your tax paperwork and returns ready when you start t
 
  
 
-Also, don’t forget to sign and submit your form!
+_And don’t forget to sign and submit your form!_
 
- 
+**What if I have questions or need help?**
 
- 
+There are many online resources to help you answer your questions or address your concerns. The [U.S. Department of Education](https://blog.ed.gov/2017/09/8-steps-to-filling-out-the-fafsa-form/) has many websites dedicated to making the FAFSA as easy as possible for students and their parents to complete. 
 
-_What if I have questions or need help?_
-
- 
-
-There are many online resources to help you answer your questions or address your concerns. The [U.S. Department of Education](https://blog.ed.gov/2017/09/8-steps-to-filling-out-the-fafsa-form/) has many websites dedicated to making the FAFSA as easy as possible for students and their parents to complete.
-
- 
-
- 
-
-_What happens next?_
-
- 
+**What happens next?** 
 
 Once submitted and processed, your FAFSA information will be shared with the schools you listed on the application. It’s not a bad idea to reach out the schools to confirm they received it—many colleges and universities will not consider your admissions application complete until they receive your FAFSA form.
 
- 
-
 You’ll also receive a Student Aid Report (SAR) within a month of submitting your form. The SAR will show you a summary of the information you submitted and give you the opportunity to correct any errors.
-
- 
 
 Then all you need to do is relax! Each college and university make aid decisions at different times in the admissions process, but you’ll learn about the aid you will receive through an award letter. These letters can be challenging to understand, so stay tuned for future posts on the types of aid and how to decode your student financial aid package.
