@@ -21,5 +21,3 @@ fields:
   hidden: true
   config:
     required: true
-pages:
-- _posts/applying-to-college-101-the-fafsa.md
