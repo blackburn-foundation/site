@@ -16,7 +16,7 @@ header_pages:
  - donate.md
  - volunteer.md
 
-google_analytics: "UA-2869148-4"
+google_analytics: "UA-20982032-1"
 
 # Build settings
 theme: minima
