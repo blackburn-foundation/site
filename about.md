@@ -1,7 +1,8 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: "/about/"
+
 ---
 <strong>Founded:</strong> October 1, 2008 in Dallas, Texas<br>
 <strong>EIN:</strong> 80-0271043<br>
@@ -12,4 +13,5 @@ permalink: /about/
 <li><strong>Vice-President: </strong>Dr. Lew Blackburn, Sr.</li>
 <li><strong>Treasurer: </strong>Lew Blackburn, Jr.</li>
 <li><strong>Secretary: </strong>Tes Blackburn</li>
-</ul>
+
+<li><strong>Executive Director: </strong>Michelle Lessly Blackburn</li> </ul>
