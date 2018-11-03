@@ -14,4 +14,4 @@ permalink: "/about/"
 <li><strong>Treasurer: </strong>Lew Blackburn, Jr.</li>
 <li><strong>Secretary: </strong>Tes Blackburn</li>
 
-<li><strong>Executive Director: </strong>Michelle Lessly Blackburn</li> </ul>
+<li><strong>Executive Director: </strong>Dr. Michelle Lessly Blackburn</li> </ul>
