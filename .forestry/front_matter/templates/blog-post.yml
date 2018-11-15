@@ -22,7 +22,7 @@ fields:
   config:
     required: true
 pages:
-- _posts/applying-to-college-101-admission-essay.md
+- _posts/2018-11-15-applying-to-college-101-admission-essay.md
 - _posts/2018-11-02-applying-to-college-101-letters-of-recommendation.md
 - _posts/2018-10-25-applying-to-college-101-early-admissions.md
 - _posts/2018-10-16-applying-to-college-101-the-fafsa.md
