@@ -15,3 +15,5 @@ fields:
   config:
     required: true
   default: page
+pages:
+- scholarships-and-grants.md
