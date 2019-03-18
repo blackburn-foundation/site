@@ -1,7 +1,6 @@
 ---
 label: Blog Post
 hide_body: false
-is_partial: false
 fields:
 - type: text
   default: ''
@@ -22,9 +21,10 @@ fields:
   config:
     required: true
 pages:
-- _posts/2018-10-25-applying-to-college-101-early-admissions.md
-- _posts/2018-10-16-applying-to-college-101-the-fafsa.md
-- _posts/2018-11-02-applying-to-college-101-letters-of-recommendation.md
+- _posts/celebrating-african-american-educators.md
 - _posts/2019-01-07-applying-to-college-101-the-waiting-game.md
 - _posts/2018-12-10-applying-to-college-101-campus-visits.md
 - _posts/2018-11-15-applying-to-college-101-admission-essay.md
+- _posts/2018-11-02-applying-to-college-101-letters-of-recommendation.md
+- _posts/2018-10-25-applying-to-college-101-early-admissions.md
+- _posts/2018-10-16-applying-to-college-101-the-fafsa.md
