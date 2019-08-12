@@ -1,21 +1,21 @@
 ---
 header:
-- url: "/scholarships/"
-  weight: 5
-  title: Scholarships and Grants
-- url: "/about/"
-  title: About
-  identifier: about
-  weight: 4
-- url: "/volunteer/"
-  title: Volunteer
-  identifier: volunteer
-  weight: 1
-- url: "/donate/"
-  title: Donate
-  identifier: donate
-  weight: 2
 - url: "/blog/"
   title: Blog
   identifier: blog
   weight: 3
+- url: "/donate/"
+  title: Donate
+  identifier: donate
+  weight: 2
+- url: "/volunteer/"
+  title: Volunteer
+  identifier: volunteer
+  weight: 1
+- url: "/about/"
+  title: About
+  identifier: about
+  weight: 4
+- url: "/scholarships/"
+  weight: 5
+  title: Scholarships and Grants
