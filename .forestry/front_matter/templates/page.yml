@@ -18,4 +18,5 @@ fields:
     required: true
   default: page
 pages:
+- _posts/back-to-school-time.md
 - scholarships-and-grants.md
