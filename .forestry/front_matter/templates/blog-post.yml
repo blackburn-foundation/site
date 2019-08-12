@@ -21,6 +21,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/wilmer-mayor-s-back-to-school-extravaganza-2019.md
 - _posts/2018-12-10-applying-to-college-101-campus-visits.md
 - _posts/2019-03-18-celebrating-african-american-educators.md
 - _posts/2018-11-15-applying-to-college-101-admission-essay.md
